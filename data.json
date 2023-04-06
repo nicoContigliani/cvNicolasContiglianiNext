@@ -1,0 +1,181 @@
+{
+    "todo": [
+        {
+            "lenguage": "En",
+            "aboutme": [
+                {
+                    "aboutmeText": "Soy un profesional de TI con la capacidad de trabajar en equipo .Estoy trabajando con tecnologías   Node.js, React.js y base de datos relacionales como Postgres y MySQL En búsqueda de nuevos desafíos."
+                }
+            ],
+            "dataperson": [
+                {
+                    "fullname": "Nicolás Contigliani",
+                    "phone": "+5492612444106",
+                    "mail": "nico.contigliani@gmail.com",
+                    "facebook": {
+                        "titleFacebook": "nico.contigliani",
+                        "urlFacebook": ""
+                    },
+                    "linkedin": {
+                        "titleLinkedin": "nicolas-contigliani",
+                        "urlLinkedin": "https://www.linkedin.com/in/nicolas-contigliani/"
+                    },
+                    "Github": {
+                        "titleGithub": "nicolas-contigliani",
+                        "urlLinkedin": "https://github.com/nicoContigliani"
+                    }
+                }
+            ],
+            "softSkills": [
+                {
+                    "softSkillArray": [
+                        "Autodidacta",
+                        "Creativo",
+                        "Organizado",
+                        "Emprendedor"
+                    ]
+                }
+            ],
+            "lenguages": [
+                {
+                    "español": "Nativo",
+                    "Ingles": "A1"
+                }
+            ],
+            "skills": [
+                {
+                    "Stack": "Front End",
+                    "tenologi": [
+                        "Next.js",
+                        "JavaScript ES6/ typescript",
+                        "Material UI /Bootstrap/Metro4/ Frame motions y CSS",
+                        "Figma"
+                    ]
+                },
+                {
+                    "Stack": "Back End",
+                    "tenologi": [
+                        "Node.js",
+                        "Nest.js",
+                        "express",
+                        "Docker",
+                        "Postman"
+                    ]
+                },
+                {
+                    "Stack": "Base de Datos ",
+                    "tenologi": [
+                        "Postgres",
+                        "MySql",
+                        "Mongo"
+                    ]
+                },
+                {
+                    "Stack": "Mobile",
+                    "tenologi": [
+                        "React Native Expo"
+                    ]
+                },
+                {
+                    "Stack": "Metodología",
+                    "tenologi": [
+                        "Scrum",
+                        "Agile"
+                    ]
+                },
+                {
+                    "Stack": "Control de Versiones",
+                    "tenologi": [
+                        "Github",
+                        "Gitlab",
+                        "BigBucket"
+                    ]
+                },
+                {
+                    "Stack": "Redes de Datos y S.O.",
+                    "tenologi": [
+                        "Cisco",
+                        "GNU/Linux",
+                        "Windows Server"
+                    ]
+                }
+            ],
+            "wokrExperience": [
+                {
+                    "company": "OpenDev",
+                    "dateWork": "Abril 2022",
+                    "job": "FullStack Developer",
+                    "descripcionJob": "Proyecto Sistema de organización de documentación y mensajería para Contadores y abogados",
+                    "stackJob": "React/Node"
+                },
+                {
+                    "company": "Flexxus",
+                    "dateWork": "Febrero - Abril - 2022 ",
+                    "job": "FullStack Developer",
+                    "descripcionJob": "Proyecto Sistema web Carro de compras",
+                    "stackJob": "React/Node"
+                },
+                {
+                    "company": "Grupo del Plata Salud",
+                    "dateWork": "Enero 2021",
+                    "job": "FullStack Developer",
+                    "descripcionJob": "",
+                    "stackJob": "React/Node"
+                }
+            ],
+            "FreelancerExperience": [
+                {
+                    "Proyect": "Sistema Seguros",
+                    "dateWork": "Enero 2020",
+                    "descripcionJob": "El Sistema fue desarrollado para una cadena de empresas de seguro con el fin de fidelizar clientes. Se encuentra desarrollado en Node MVC con una base Postgres que funciona como una api en  conexión con la vista en React.js (bootstrap,material UI y Metro 4) por medio de rutas Express.js.   Además se usa api Wattsapp y nodemal para los recordatorios.",
+                    "stackJob": "React/Node"
+                }
+            ],
+            "education": [
+                {
+                    "titleEducation": "Tecnico Universitario en Redes de Datos y Telecomunicacines",
+                    "branch": "ITU/UNCuyo",
+                    "descriptionBranch": "Instituto Tecnológico Universitario (UNCuyo)",
+                    "dateBranch": "2011 - 2015 ",
+                    "statusBranch": "Graduado"
+                },
+                {
+                    "titleEducation": "Tecnicatura Superior en Analisis de Sistemas y Programación",
+                    "branch": "IIESS",
+                    "descriptionBranch": "Instituto Belgrano",
+                    "dateBranch": "2016 - 2021 ",
+                    "statusBranch": "Graduado"
+                }
+            ],
+            "cursos": [
+                {
+                    "Udemy": [
+                        "JavaScript Full- Curso desde Principiante hasta Profesional",
+                        "JavaScript 2020: Curso desde Principiante hasta ProfesionalUso Json con Axios y Fetch",
+                        "React JS ⭐Desde Cero! Hooks, Redux, Context, Firebase y más!",
+                        "React: De cero a experto ( Hooks y MERN )-Fernando Herrera",
+                        "React Hooks: Guia inicial utilizando Redux y Material.UI",
+                        "React v17 en Producción - LazyLoad, SEO y Más",
+                        "Aprender React JS",
+                        "Curso Completo de React",
+                        "NestJS: Node + Typescript al estilo Angular para crear APIS",
+                        "Socket.IO NodeJs. Aprende Websockets creando chat en vivo",
+                        "Curso básico de TypeScript - Empieza con este lenguaje",
+                        "Aprende Javascript ES9, HTML, CSS3 y NodeJS desde cero",
+                        "Scrum Fundamentals for Scrum Master and Agile Projects",
+                        "Curso de entrenamiento para Scrum Master Certified",
+                        "Programación en Javascript: Lo que debes saber del lenguaje",
+                        "React JS Course - Getting Started Guide to Beginners",
+                        "ChatGPT for Beginners: The Ultimate Use Cases for Everyone",
+                        "ChatGPT Bootcamp: From Beginner to Pro",
+                        "Git and GitHub For Beginners",
+                        "Linux para Principiantes",
+                        "Configuración de red TCP/IP en Linux",
+                        "Adobe Animate CC para principiantes",
+                        "Visual Studio Code: Mejora tu velocidad para codificar"
+                    ]
+                }
+            ]
+        }
+    ]
+}
